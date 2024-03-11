@@ -1,2 +1,2 @@
 # Sliding-Puzzle 
-Solving sling puzzle with A* algorithm in Python
+Solving sliding puzzle with A* algorithm in Python
